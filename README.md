@@ -13,5 +13,5 @@ O projeto é composto por 10 arquivos JavaScript localizados na raiz da pasta. C
 ## Autor
 - Desenvolvido por Vitor de Souza Ramos
 - Estudante de Ciência da Computação na UNESC
-- GitHub: https://github.com/vitor-sramos 
-- LinkedIn: https://www.linkedin.com/in/vitor-ramos-934302349
+- [GitHub](https://github.com/vitor-sramos). 
+- [LinkedIn](https://www.linkedin.com/in/vitor-ramos-934302349).
